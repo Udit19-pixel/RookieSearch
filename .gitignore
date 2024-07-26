@@ -1,0 +1,10 @@
+src/rookiesearch-frontend/node_modules
+venv
+src/data_collection/Scrape_checkpoints
+src/faiss_index
+src/preprocessing/preprocessed_python_docs.json
+src/preprocessing/python_docs_data_final.json
+src/email_alerts.py
+src/rookiesearch.log
+setup_project.bat
+Template.md
