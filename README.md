@@ -76,7 +76,7 @@ A project based demonstration that creates RAG based system that answers questio
 - For example, the question that was asked above might reply differently everytime it's searched for and can also behave abruptly. In case if it doesn't find relevant answer, a different message is posted.
 - The preprocessing wasn't done upto the mark because of machine limitations. Also, the final JSON preprocessed file took around 3.5 hours of time to get ready, even after using torch library and more efficient scripts. Look into the answer that was generated -
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Answer%20Generated.png" alt="Answer generated" width="280" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Answer%20Generated.png" alt="Answer generated" width="690" height="350">
 </div>
 
 
@@ -84,15 +84,15 @@ A project based demonstration that creates RAG based system that answers questio
 - One thing that was achieved in amidst of making this project, was setting up email notification, whenever certain limit hits. This was done using SMTP protocols and setting up app passwords (look up in the internet, on how to do so).
 - Below is the sample email script that was tested created in order to achieve so (obviously, one can't show their identity essentials, as a result of  which, the file is not present in this repository) -
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-1.png" alt="Email notification-1" width="280" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-1.png" alt="Email notification-1" width="690" height="350">
 </div>
 
 - Once, the script is executed, the following can be seen in the mail server -
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-2.png" alt="Email notification-2" width="280" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-2.png" alt="Email notification-2" width="690" height="350">
 </div>
 
 - In addition to this, a file named rookiesearch.log willbe created which not only shows the disk stats, but also logs what was asked initially. The same logs onto the terminal once the searchAPI.py script is run.
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/rookiesearch-log.png" alt="Log file" width="280" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/rookiesearch-log.png" alt="Log file" width="690" height="350">
 </div>
