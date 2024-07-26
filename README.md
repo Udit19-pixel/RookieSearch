@@ -53,7 +53,7 @@ A project based demonstration that creates RAG based system that answers questio
     ```
 - When the above commands are executed concurrently, one can land on the page and ask their question. Here is a sample case -
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Asking%20Question.png" alt="Asking question" width="680" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Asking%20Question.png" alt="Asking question" width="690" height="350">
 </div>
 
 
