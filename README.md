@@ -27,7 +27,7 @@ A project based demonstration that creates RAG based system that answers questio
 ## Directory Structure
 - The Directory contains various types of models and respective views depending upon the requirements for each template.
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Project_Structure.png" alt="Project Structure" width="280" height="300">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Project_Structure.png" alt="Project Structure" width="280" height="400">
 </div>
 
 ## Environment and Run Procedure
