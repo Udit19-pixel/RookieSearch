@@ -89,7 +89,7 @@ A project based demonstration that creates RAG based system that answers questio
 
 - Once, the script is executed, the following can be seen in the mail server -
 <div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-2.png" alt="Email notification-2" width="690" height="370">
+ <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/Email%20Notification-2.png" alt="Email notification-2" width="690" height="390">
 </div>
 
 - In addition to this, a file named rookiesearch.log willbe created which not only shows the disk stats, but also logs what was asked initially. The same logs onto the terminal once the searchAPI.py script is run.
