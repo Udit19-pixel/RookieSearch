@@ -67,11 +67,7 @@ A project based demonstration that creates RAG based system that answers questio
 - Scalability and Flexibility: RAG systems can be scaled to handle large volumes of data and diverse types of queries, making them versatile tools for various applications, from customer support to technical documentation assistance.
 
 ## Project Working - RAG Pipeline
-- First of all, if you haven't, try going through the RAG pipeline diagram that was created using draw.io -
-<div align="center">
- <img src="https://github.com/Udit19-pixel/RookieSearch/blob/main/RAG_Diagram.drawio.svg" alt="Flow diagram" width="280" height="300">
-</div>
-
+- First of all, if you haven't, try going through the RAG pipeline diagram that was created using draw.io
 - The diagram included various components that were put together into making this project.
 - The front-end is made using React with minimalistic design (the focus was actually on the pipelining, so user experience was cut-short).
 - Whenever user asks a question related to python, that question is then checked upon against the FAISS index that is created from the official documentation and vector_store.py script, through an embedding model (in this case all-MiniLM-L6-v2).
